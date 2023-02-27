@@ -1,5 +1,5 @@
 {
-   "items":[
+   "data":[
       {
          "name":"name 1",
          "price":"price 1",
@@ -25,4 +25,5 @@
          "id":"4"
       }
    ],
+   "total" : "3"
 }
